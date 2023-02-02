@@ -1,7 +1,7 @@
 # Newcastle-s-2021-22-season
 Analyzing Newcastle's 2021/22 season 
 
-What a turn-around for Newcastle Utd 
+What a turn-around for Newcastle Utd.
 Last winter they were in the relegation battle
 but this time around they are fighting for a Champions League Spot
 
